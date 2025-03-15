@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there! 👋 I'm a Software Developer
 
-<!--
-**vijaysankar008/vijaysankar008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about building scalable and efficient applications using modern technologies.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 Software Developer with expertise in backend development.
+- 📍 Skilled in Java, Spring Boot, MySQL, PostgreSQL, Postman, Kubernetes, and Kafka.
+- 🌱 Always learning and exploring new technologies.
+- 🏗️ Love designing scalable and robust systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Programming Languages**: Java
+- **Frameworks**: Spring Boot
+- **Databases**: MySQL, PostgreSQL
+- **Tools & Platforms**: Postman, Kubernetes, Kafka
+
+## 📫 Connect with Me
+- 📧 Email: [sankarvijayvj@gmail.com]
+
+
+Thanks for visiting my profile! 🚀 Happy coding!
